@@ -6,17 +6,18 @@
 
 使用56张训练集，20张验证集。
 
-图片
+![pic.PNG](https://github.com/goslling/goslling/blob/master/sunzheng2019412/pic.PNG?raw=true)
 
 训练过程中的loss：
 
-图像
+![pic1.PNG](https://github.com/goslling/goslling/blob/master/sunzheng2019412/pic1.PNG?raw=true)
 
 训练30个epoches，每个epoch处理100张图片。30个epoch后得到分类loss为0.0340，bounding-box的loss为0.0523，mask的loss为0.1254.
 
 得到的训练权重：
 
-图像
+![pic2.PNG](https://github.com/goslling/goslling/blob/master/sunzheng2019412/pic2.PNG?raw=true)
 
 使用训练得到的权重对测试集图像进行测试得到的结果：
 
+![pic3.png](https://github.com/goslling/goslling/blob/master/sunzheng2019412/pic3.png?raw=true)
