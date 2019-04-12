@@ -21,3 +21,7 @@
 使用训练得到的权重对测试集图像进行测试得到的结果：
 
 ![pic3.png](https://github.com/goslling/goslling/blob/master/sunzheng2019412/pic3.png?raw=true)
+
+更新了跑实验的经验：https://github.com/goslling/goslling/blob/master/跑实验的经验.md
+
+又踩了好多坑，多走好多路。继续努力
